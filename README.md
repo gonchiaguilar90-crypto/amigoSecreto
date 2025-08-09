@@ -25,7 +25,7 @@ Challence de Alura amigo secreto
 ## 👨‍💻 Desarrollador
 
 | :---: |
-| [Gonzalo Aguiñar](https://github.com/gonchiaguilar90-crypto) |
+| [Gonzalo Aguilar](https://github.com/gonchiaguilar90-crypto) |
 
 ## 📜 Licencia
 
